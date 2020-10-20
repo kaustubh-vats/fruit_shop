@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Demo</string>
+    <string name="login">Login</string>
+    <string name="please_sign_in_to_continue">Please Sign in to continue</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forgot">Forgot</string>
+    <string name="login_button">Login \u2192</string>
+    <string name="account">Don\'t have an account</string>
+    <string name="sign_up">" Sign up"</string>
+    <string name="please_sign_up_to_continue">Please sign up to continue</string>
+    <string name="sign_up_button">Sign up \u2192</string>
+    <string name="account1">Already have an account</string>
+    <string name="item">Item</string>
+    <string name="quantity">0</string>
+    <string name="add">Add Fruits</string>
+    <string name="item_name">Item name</string>
+    <string name="quantity_available">Quantity Available</string>
+    <string name="buy_now">Buy Now</string>
+</resources>
